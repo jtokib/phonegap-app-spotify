@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
-  "version": "com.phonegap.helloworld",
-  "description": "A basic Framework7 Media App for PhoneGap.",
-  "author": "Adobe PhoneGap Team",
+  "name": "PhoneGap Spotify - Short Task",
+  "short_name": "PhoneGap Spotify - Short Task",
+  "version": "com.phonegap.phonegapspotify",
+  "description": "A basic Framework7 Media App for PhoneGap using the Spotify API.",
+  "author": "Toki Burke",
   "icons": [],
   "start_url": "index.html"
 }
