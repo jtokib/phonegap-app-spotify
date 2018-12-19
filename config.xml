@@ -91,7 +91,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="StatusBarStyle" value="default" />
     <preference name="FadeSplashScreenDuration" value="300" />
-    <preference name="phonegap-version" value="cli-8.2.2" />
+    <preference name="phonegap-version" value="cli-7.1.0" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.3" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
